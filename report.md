@@ -7,9 +7,9 @@
 На тестирование затрачено: 3 часа
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/SergeyShein/JAVA1.2/issues/1
-* https://github.com/SergeyShein/JAVA1.2/issues/2
-* https://github.com/SergeyShein/JAVA1.2/issues/3
+* [Не проходит валидация 19-ти значного номера карты](https://github.com/SergeyShein/JAVA1.2/issues/1)
+* [Не проходит валидация 14-ти значного номера карты](https://github.com/SergeyShein/JAVA1.2/issues/2)
+* [Не проходит валидация 15-ти значного номера карты](https://github.com/SergeyShein/JAVA1.2/issues/3)
 
 ## Описание процесса тестирования
 
